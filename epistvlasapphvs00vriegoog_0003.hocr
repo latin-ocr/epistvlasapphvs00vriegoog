@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistvlasapphvs00vriegoog_0003.png"; bbox 0 0 3386 5346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 434 2899 1056 3004">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 434 2899 1056 3004">
+     <span class='ocr_line' id='line_1_1' title="bbox 434 2899 1056 3004; baseline -0.006 -26"><span class='ocrx_word' id='word_1_1' title='bbox 434 2903 647 3004; x_wconf 72' lang='lat' dir='ltr'>Evangelhus</span> <span class='ocrx_word' id='word_1_2' title='bbox 658 2902 867 3001; x_wconf 71' lang='lat' dir='ltr'>Aposmlides</span> <span class='ocrx_word' id='word_1_3' title='bbox 880 2899 1056 3002; x_wconf 77' lang='lat' dir='ltr'>Sophocles</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 576 3014 917 3149">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 576 3014 917 3149">
+     <span class='ocr_line' id='line_1_2' title="bbox 576 3014 917 3060; baseline -0.009 0"><span class='ocrx_word' id='word_1_4' title='bbox 576 3014 917 3060; x_wconf 59' lang='lat' dir='ltr'>Tamum-macen&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 677 3083 819 3149; baseline 0 -15"><span class='ocrx_word' id='word_1_5' title='bbox 677 3083 819 3149; x_wconf 65' lang='grc' dir='ltr'>ιδῃ-1883</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 3245 949 3375">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 548 3245 949 3375">
+     <span class='ocr_line' id='line_1_4' title="bbox 548 3245 949 3311; baseline -0.007 -8"><span class='ocrx_word' id='word_1_6' title='bbox 548 3245 949 3311; x_wconf 51' lang='lat' dir='ltr'>PorGoessthdAnbie</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 683 3323 816 3375; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 683 3323 816 3375; x_wconf 65' lang='lat' dir='ltr'><strong>[imme</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1698 5346">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1698 5346">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1698 5346; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1698 5346; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
